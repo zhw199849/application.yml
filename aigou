@@ -8,7 +8,7 @@ server:
   port: 8002
 spring:
   application:
-    name: USER-PROVIDER  #服务的名字
+    name: STUDENT  #服务的名字
   profiles: dev
 eureka:
   client:
@@ -21,7 +21,7 @@ server:
   port: 8003
 spring:
   application:
-    name: USER-PROVIDER  #服务的名字
+    name: STUDENT  #服务的名字
   profiles: test
 eureka:
   client:
