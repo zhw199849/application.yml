@@ -18,7 +18,7 @@ eureka:
 
 ---
 server:
-  port: 8003
+  port: 8001
 spring:
   application:
     name: STUDENT  #服务的名字
