@@ -2,7 +2,6 @@ spring:
   profiles:
     active:
     - dev
-
 ---
 server:
   port: 8003
