@@ -5,7 +5,7 @@ spring:
 
 ---
 server:
-  port: 8002
+  port: 8001
 spring:
   application:
     name: USER-PROVIDER  #服务的名字
